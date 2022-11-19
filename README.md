@@ -4,14 +4,19 @@
 * Day 1
 
     * <a href="/Day1">Code</a>
-    * <a href="https://drive.google.com/drive/folders/1deQIJohZW2qkRJf4EKSg2D3P-0jpS0Zs?usp=sharing">Recording</a>
+    * <a href="https://youtu.be/zVaCfrq4ZaE">Recording</a>
 
 * Day 2.1
 
     * <a href="/Day2.1">Code</a>
-    * <a href="https://drive.google.com/drive/folders/1deQIJohZW2qkRJf4EKSg2D3P-0jpS0Zs?usp=sharing">Recording</a>
+    * <a href="https://youtu.be/UdKILieIXvM">Recording</a>
 
 * Day 2.2
 
     * <a href="/Day2.2">Code</a>
     * <a href="/Day2.2/ss.png">Screenshot</a>
+    
+* Drive link
+
+    * <a href="https://drive.google.com/drive/folders/1deQIJohZW2qkRJf4EKSg2D3P-0jpS0Zs?usp=sharing">Link</a>  
+    
